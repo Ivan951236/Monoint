@@ -1,0 +1,44 @@
+{
+    "providers": [
+      {
+        "type": "caxton",
+        "regular": {
+          "file": "tuivans:monoint-main.ttf",
+          "scale_factor": 1.2,
+          "shadow_offset": 0.5,
+          "shift": [0.0, 0.0]
+        },
+        "bold": {
+          "file": "tuivans:monoint-bold.ttf",
+          "scale_factor": 1.2,
+          "shadow_offset": 0.5,
+          "shift": [0.0, 0.0]
+        },
+        "italic": {
+          "file": "tuivans:monoint-main.ttf",
+          "scale_factor": 1.2,
+          "shadow_offset": 0.5,
+          "shift": [0.0, 0.0]
+        },
+        "bold_italic": {
+          "file": "tuivans:monoint-bold.ttf",
+          "scale_factor": 1.2,
+          "shadow_offset": 0.5,
+          "shift": [0.0, 0.0]
+        }
+      },
+      {
+        "id": "minecraft:include/space",
+        "type": "reference"
+      },
+      {
+        "id": "minecraft:include/default",
+        "type": "reference"
+      },
+      {
+        "id": "minecraft:include/unifont",
+        "type": "reference"
+      }
+    ]
+  }
+  

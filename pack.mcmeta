@@ -1,0 +1,7 @@
+﻿{
+  "pack": {
+    "pack_format": 34,
+    "description":"Crafted by Master Ivan the pack is crafted for and requires caxton, otherwise the fonts are not displayed correctly!",
+    "supported_formats": [34, 999]
+  }
+}
