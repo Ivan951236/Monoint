@@ -5,4 +5,8 @@ The one Texture Pack that brings the typeface you've been trained to recognize s
 
 Screenshots:
 
-TODO: Add the images
+![Text Message with Normal Font](gallery/text-main.png)
+
+![Text Message with BOLD Font](gallery/text-bold.png)
+
+![Pause Menu using this Font Pack](gallery/pause-menu.png)
